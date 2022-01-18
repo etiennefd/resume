@@ -1,10 +1,10 @@
 # Étienne Fortier-Dubois
 
-Independent Project Manager and Generalist based in 📍 Montreal, Quebec   
+Writer and programmer based in 📍 Montreal, Quebec
 
-Experience working independently and in the trenches with senior business leaders. I’ve written and produced books, spun up websites, created successful marketing campaigns, and increased the public rank of one of the world’s largest law firms. I deploy varied skills from either side of the STEM line, always acquiring new ones as necessary. 
+I am a generalist. Recently I have focussed a lot on writing and editing.
 
-[Email](mailto:etiennefd@gmail.com) / [Website](https://www.etiennefd.com) / [Newsletter](https://etiennefd.substack.com) / [Twitter](https://twitter.com/etiennefd) / [LinkedIn](https://www.linkedin.com/in/%C3%A9tienne-fortier-dubois-93251111b/)	/ [GitHub](https://github.com/etiennefd/) / 
+[Email](mailto:etiennefd@gmail.com) / [Website](https://www.etiennefd.com) / [Newsletter](https://etiennefd.substack.com) / [Twitter](https://twitter.com/etiennefd) / [LinkedIn](https://www.linkedin.com/in/%C3%A9tienne-fortier-dubois-93251111b/)	/ [GitHub](https://github.com/etiennefd/)
 
 ---
 
@@ -14,72 +14,50 @@ Experience working independently and in the trenches with senior business leader
 
 In early 2021, I quit my software job to try my hand at various independent projects.
 
-* [Maximum New York](https://maximumnewyork.com/): a civics project to help increase housing stock in New York City. I built the site with [Jekyll](https://jekyllrb.com/) and [Sass](https://sass-lang.com/); site hosting is provided by [Netlify](https://www.netlify.com/), and source hosting by [GitHub](https://github.com/danielgolliher) (private repo). 
-* [Graph of the New York City charter](https://golliher.substack.com/p/understanding-nycs-government): I built a graph of the NYC charter (~540 pages) to gain a better understanding of the interrelationships between different parts of the city government. I uploaded the charter to [Roam](https://roamresearch.com/), and manually tagged it with my own taxonomy. See the graph [here](https://roamresearch.com/#/app/NYC_govt/graph).  
-* [Jack & Percy Publishing](https://jackandpercypublishing.wordpress.com/): a small independent publishing venture; I redesign classic books for better aesthetics and physical feel, from start to finish. I estimate that I’ll do about two books a year (the second is in process). I have also previously written and independently produced [three other books](https://www.amazon.com/Daniel-Golliher/e/B00MW9N79I). 
-* [Interintellect](https://interintellect.com/): I’ve hosted eight salons as an Interintellect host on a variety of topics, and I worked with another ii team member to set up the company’s current website (we migrated from Wix to Wordpress, and I built out payment and membership functionality).
-* Web3: my projects here are just beginning. I've held cryptocurrencies in Coinbase custodial wallets, and non-custodial wallets. I joined [ConstitutionDAO](https://www.constitutiondao.com/) in its attempt to purchase one of the remaining extant copies of the U.S. Constitution (see [POAP](https://app.poap.xyz/scan/0xF7A1d0244079EEae41b520a53427B8aD6D128B65) here).  
-
-* [The Journal of Accessible and Well-Written Science](https://jawws.com): 
+* [The Journal of Accessible and Well-Written Science](https://jawws.com): JAWWS is a project to improve the quality of science writing that is aimed at other scientists. I have been researching ways to make a paper less cognitively demanding, as well as examining how the current norms in scientific publishing came about. Visit [the website I created](https://jawws.com), or [subscribe to the newsletter](https://jawws.substack.com/) to read my writing on these topics. This work has been supported by [New Science](https://newscience.org).
+* [Creator Cabins](https://www.creatorcabins.com/): I spent one month at the Cabin near Austin, Texas, as a residency to work on JAWWS. Since then I have also been an active member of the online Cabin community and I have been contributing some writing and editing work.
 * [Interintellect](https://interintellect.com/): I worked for five months to help set up the company's website and other behind-the-scene tasks. I am also an active host in the community, having organized more than ten salons, online and in person, since December 2020.
-* [Newsletter: Atlas of Wonders and Monsters](): 
-* Novel
-* Freelance iOS programming work
+* [Newsletter — Atlas of Wonders and Monsters](https://etiennefd.substack.com/): I write a weekly blog post on any topic. In November 2020, I committed to publish every Wednesday for 100 weeks (until October 2022), and I have succeeded so far.
+* In 2021 I did occasional freelance iOS programming work. 
+* I also finished and edited my novel about New France and historical films in Quebec. It's currently in the hands of potential publishers.
 
-### **Software Developer** @ [Druide informatique](https://druide.com) | _Feb 2019-Feb 2021_
+### **Software Developer** at [Druide informatique](https://druide.com) | _February 2019-February 2021_
 
-Review from my manager ([here](https://www.linkedin.com/in/danielgolliher/) on LinkedIn):
-> Daniel is an exceptional team member: smart, diligent, results-oriented and fun to boot. He absorbs complex information quickly, mapping out plans and strategies to get results. Case in point, he led our firm's rankings & awards program, entering the role with limited familiarity with rankings, and over several years, he increased the firm's prestige, if not maintained it. He gets the big picture, and all the nitty gritty details. Not to mention he's a terrific human and a great teammate - with an even keel — and an attitude to help others.
+* Druide is a Montreal-based tech company that makes the software Antidote for helping writers with French or English grammar and spelling. 
+* I worked specifically on a macOS application used within the company to manage and update lexicographic data. I worked closely with linguists and dealt with many concepts from natural languages with a computer science point of view.
+* Main programming languages used: Swift, Objective-C, Python
 
-* **Worked directly with dozens of partners throughout the firm to craft their rankings and awards strategy, which included: interview prep and follow-up, data analysis and presentation, writing award submissions detailing their work, and tracking their flow of business to continually update the firm's PR strategy.** 
-* Highlighted the success of attorneys while making sure: (1) submissions were aligned with the business strategies of the practice, (2) submissions strictly followed client preferences and confidentiality/ethical considerations. This resulted in: continued year-over-year growth in ranking recognitions, with a high of 20% annual increase in one publication (unprecedented prior to my employment). See [here](https://github.com/danielgolliher/resume/blob/main/Chambers%20USA%20submission%20form.pdf) for an example of the ranking submission form. 
-* Alerted partners to the various pending submission deadlines and kept them on task over project time horizons that spanned months. This also required securing extensions from ranking publications when partners were extremely busy, and I regularly negotiated as much as a month of extra time while still maintaining good relationships with the publications—without interfering with our submissions’ success. 
-* Trained other individuals in PR and business development on how to write and research ranking submissions.
-* Wrote posts for the firm's website highlighting rankings and awards won, and reports for firm leadership.
-* Note: this position was new to the firm when I accepted it, so I developed the role as I worked. See my LinkedIn for even further detail.
+### **Data Administrator** at [Rossy Cancer Network](https://www.linkedin.com/company/rossycancer/?originalSubdomain=ca) | _January 2017-January 2018_
 
-### **Harvard College Outreach & Marketing Coordinator** @ [Harvard Recreation](https://recreation.gocrimson.com) | _Jan 2017—May 2018_
+* I dealt with data from cancer patients with a goal of helping physicians improve the outcomes of cancer care in the McGill University hospital network. 
+* Main tools: Microsoft Excel, Microsoft Access
 
-* Created a unified marketing program for Harvard Recreation, comprising a successful teaser campaign in Spring 2017 and a full program in the 2017/8 year. This won coverage in the school paper (irregular for university administrative programs), and provoked a 15% increase in gym attendance among undergraduates. 
-* Conceived and executed a marketing event that gathered data from 25% of all Harvard College students, which I used to inform further program plans.
-* Created new revenue streams and plans to optimize existing ones; I created ~$20k in new revenue in Fall 2017 with test marketing plan implementations.
-* Planned and oversaw over 20 new outreach events during the Fall 2017 semester, and over 30 in Spring 2018.
-* Revised Harvard Recreation’s website from its previous state of inactivity; integrated and managed Google Analytics to draw usable data from web traffic.
-* Developed new standards and practices for Harvard Recreation marketing in graphic design, student communication, and departmental strategy. All are steeped in an awareness of “cargo cult marketing/communications,” adapted from Feynman’s “cargo cult science.”
-* **See [LinkedIn](https://www.linkedin.com/in/danielgolliher/) for my ~4.5 years of work with Harvard Recreation during my undergraduate years, as a manager on duty of two athletic facilities. 
+### **Fun Small Jobs From My Deep Past**
 
-### **Independent Projects (in Cincinnati, OH)** | _April 2016—Jan 2017_
-
-* Worked as regular opening and closing staff at Coffee Emporium, one of Ohio’s top-ranked coffee shops.
-* Independently published [my third book](https://www.amazon.com/Dear-Wayne-County-Daniel-Golliher/dp/1539678571/)
-
-### **Corporate Paralegal** @ [Ropes & Gray](https://ropesgray.com) | _April 2015—April 2016_
-
-* I joined Ropes & Gray’s first class of “program paralegals,” who work at the firm to learn about legal practice and prepare for law school, with the intention that they return to the firm. I did later return to the firm, but not as a lawyer.
-* During this time I also wrote and independently published [my second book](https://www.amazon.com/gp/product/197624708X/).
-* See LinkedIn for deeper detail on the transactional work I performed.
-
-### **Small Jobs From My Deep Past**
-
-* I showed people around and  for visitors to a small observatory (2009)
-* 
-
+* 💿 Helped with the online inventory of a classical music CD vendor (2013)
+* 🗣 Was a camp counsellor for teenagers in French immersion for the summer in Quebec City (2012)
+* 🛢 Worked with hazardous materials data at two Canadian military bases (2010-2011)
+* 🔭 Showed people around and for visitors to a small observatory (2009)
 
 ## 🎓 Education
 
-### **McGill University** | Bachelor of Science | 2018
-* In 2017, I went back to school to get a degree in computer science
-* Research internship in Summer 2018 on machine learning and natural language processing in the context of data from the medical literature
+### **McGill University** | Bachelor of Science, Computer Science | 2018
+* In 2017, I went back to school to get a full degree in computer science
+* Spent the summer of 2018 on a research internship. I used machine learning and natural language processing to mine data from the medical literature on frailty.
+
+### **Uppsala University, Sweden and University of Montpellier, France** | Master of Science, Evolutionary Biology | 2016
+* A European master's program intended to gain research experience at various universities. I spent two non-consecutive semesters at Uppsala, Sweden; one at Montpellier, France; and one at Harvard, Massachusetts. 
+* In France, I worked on theoretical modelling of biological innovation.
+* In Sweden, I worked on paleontological data from Siberia.
+* At Harvard, I worked on phylogenetic trees in the context of cultural evolution in human societies. 
+
+### **McGill University** | Bachelor of Science, Honours Biology | 2013
+* Minor in computer science
+* Undergraduate thesis on toads and sexual dimorphism
+* Highlight: a field course to learn about dinosaur paleontology in Saskatchewan
+* Spent the summer of 2013 on research internship to model food chains with a simulation coded in Java
 
 ## 📌 On the Side & Other Skills
-
-### Web development
-* Historically I've built sites on Wordpress with third party hosting, but I'm currently converting my sites to a Jekyll/GitHub/Netlify stack.
-* HTML / CSS / SCSS / Jekyll / Git / Markdown
-
-### Community involvement
-* Running: Member, [Front Runners NYC](https://frny.org/)	
-* Volunteering: Trash collection, [OneBlock](https://oneblockuws.org/), [Lincoln Squared](https://lincolnsquared.nyc)
 
 ### Languages 
 * French: native
@@ -90,3 +68,8 @@ Review from my manager ([here](https://www.linkedin.com/in/danielgolliher/) on L
 ### Fiction
 * I wrote four complete novels, none of which have been published (but I'm hoping the latest one will be)
 * I have published three short stories in various literary magazines, [one of which](https://www.erudit.org/fr/revues/moebius/2016-n151-moebius03037/85430ac/) was adapted into [a short film](https://www.kinomontreal.com/films/everything-must-go-mon-amour/)
+
+### Skills I've gotten rusty at but could pick up again if I needed to
+* Typesetting: LaTeX
+* Programming languages: Java, C, C++
+* Languages for data science: R, some Python libraries
