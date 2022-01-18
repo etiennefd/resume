@@ -18,8 +18,8 @@ In early 2021, I quit my software job to try my hand at various independent proj
 * [Creator Cabins](https://www.creatorcabins.com/): I spent one month at the Cabin near Austin, Texas, as a residency to work on JAWWS. Since then I have also been an active member of the online Cabin community and I have been contributing some writing and editing work.
 * [Interintellect](https://interintellect.com/): I worked for five months to help set up the company's website and other behind-the-scene tasks. I am also an active host in the community, having organized more than ten salons, online and in person, since December 2020.
 * [Newsletter — Atlas of Wonders and Monsters](https://etiennefd.substack.com/): I write a weekly blog post on any topic. In November 2020, I committed to publish every Wednesday for 100 weeks (until October 2022), and I have succeeded so far.
-* In 2021 I did occasional freelance iOS programming work. 
-* I also finished and edited my novel about New France and historical films in Quebec. It's currently in the hands of potential publishers.
+* I finished and edited my novel about New France and historical films in Quebec. It's currently in the hands of potential publishers.
+* I have also been doing occasional freelance iOS programming work. 
 
 ### **Software Developer** at [Druide informatique](https://druide.com) | _February 2019-February 2021_
 
@@ -41,7 +41,7 @@ In early 2021, I quit my software job to try my hand at various independent proj
 
 ## 🎓 Education
 
-### **McGill University** | Bachelor of Science, Computer Science | 2018
+### **McGill University** | Bachelor of Science, Computer Science | _2018_
 * In 2017, I went back to school to get a full degree in computer science
 * Spent the summer of 2018 on a research internship. I used machine learning and natural language processing to mine data from the medical literature on frailty.
 
@@ -51,7 +51,7 @@ In early 2021, I quit my software job to try my hand at various independent proj
 * In Sweden, I worked on paleontological data from Siberia.
 * At Harvard, I worked on phylogenetic trees in the context of cultural evolution in human societies. 
 
-### **McGill University** | Bachelor of Science, Honours Biology | 2013
+### **McGill University** | Bachelor of Science, Honours Biology | _2013_
 * Minor in computer science
 * Undergraduate thesis on toads and sexual dimorphism
 * Highlight: a field course to learn about dinosaur paleontology in Saskatchewan
