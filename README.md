@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/png" href="efd-favicon.png">
-
 # Étienne Fortier-Dubois
 
 Writer and programmer based in 📍 Montreal, Quebec
