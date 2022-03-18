@@ -39,7 +39,7 @@ In early 2021, I quit my software job to try my hand at various independent proj
 * 💿 Helped with the online inventory of a classical music CD vendor (2013)
 * 🗣 Was a camp counsellor for teenagers in French immersion for the summer in Quebec City (2012)
 * 🛢 Worked with hazardous materials data at two Canadian military bases (2010-2011)
-* 🔭 Showed people around and for visitors to a small astronomical observatory (2009)
+* 🔭 Showed visitors around and handled the telescope at a small astronomical observatory (2009)
 
 ## 🎓 Education
 
