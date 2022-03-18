@@ -4,8 +4,6 @@ Writer and programmer based in 📍 Montreal, Quebec
 
 I am a generalist at heart. Over the years I've been involved in scientific research in evolutionary biology, cancer care data, writing fiction in French, and natural language software. I enjoy programming and would like to work in a tech company with fun people, but all things considered I enjoy writing (and editing) even more, and this is what I have been focusing on lately.
 
-As of early 2022 I look like this: ![](selfportrait.jpg)
-
 [Email](mailto:etiennefd@gmail.com) / [Personal website](https://www.etiennefd.com) / [Blog](https://etiennefd.substack.com) / [Twitter](https://twitter.com/etiennefd) / [LinkedIn](https://www.linkedin.com/in/%C3%A9tienne-fortier-dubois-93251111b/)	/ [GitHub](https://github.com/etiennefd/)
 
 ---
@@ -86,3 +84,8 @@ In early 2021, I quit my software job to try my hand at various independent proj
 * Typesetting: LaTeX
 * Programming languages: Java, C, C++
 * Data science: R, some Python libraries, basic machine learning
+
+---
+
+As of early 2022 I look like this: ![](selfportrait.jpg)
+
