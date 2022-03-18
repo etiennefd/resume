@@ -85,7 +85,9 @@ In early 2021, I quit my software job to try my hand at various independent proj
 * Programming languages: Java, C, C++
 * Data science: R, some Python libraries, basic machine learning
 
+<!---
 ---
 
 As of early 2022 I look like this: ![](selfportrait.jpg)
 
+--->
