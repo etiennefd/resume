@@ -47,7 +47,7 @@ In early 2021, I quit my software job to try my hand at various independent proj
 * In 2017, I went back to school to get a full degree in computer science
 * Spent the summer of 2018 on a research internship. I used machine learning and natural language processing to mine data from the medical literature on frailty.
 
-### **Uppsala University, Sweden and University of Montpellier, France** | Master of Science, Evolutionary Biology | *2014–2016*
+### **Uppsala University and University of Montpellier** | Master of Science, Evolutionary Biology | *2014–2016*
 * A European master's program intended to gain research experience at various universities. I spent two non-consecutive semesters at Uppsala, Sweden; one at Montpellier, France; and one at Harvard, Massachusetts. 
 * In France, I worked on theoretical modelling of biological innovation.
 * In Sweden, I worked on paleontological data from Siberia.
