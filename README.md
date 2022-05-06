@@ -15,9 +15,9 @@ I am a generalist at heart. Over the years I've been involved in scientific rese
 In early 2021, I quit my software job to try my hand at various independent projects.
 
 * [The Journal of Accessible and Well-Written Science](https://jawws.com): JAWWS is a project to improve the quality of science writing that is aimed at other scientists. I have been researching ways to make a paper less cognitively demanding, as well as examining how the current norms in scientific publishing came about. Visit [the website I created](https://jawws.com) or [subscribe to the newsletter](https://jawws.substack.com/) to read my writing on these topics. This work has been supported by [New Science](https://newscience.org).
-* [Creator Cabins](https://www.creatorcabins.com/): This is an organization devoted to creating physical spaces for online creators. In the fall of 2021, I spent one month at the cabin near Austin, Texas, as part of a residency to work on JAWWS. Since then I have also been an active member of the online Cabin community and I have been contributing some writing and editing work, and helped host an event at the Austin cabin.
+* [Creator Cabins](https://www.creatorcabins.com/): This is an organization devoted to creating physical spaces for online creators. In the fall of 2021, I spent one month at the cabin near Austin, Texas, as part of a residency to work on JAWWS. Since then I have also been an active member of the online Cabin community and I have been contributing some writing and editing work, including leading a team to create content on the [Cabin publishing platform](https://creators.mirror.xyz/). I have also helped host an event at the Austin cabin.
 * [Interintellect](https://interintellect.com/): Interintellect organizes intellectual discussion salons. I worked for five months to help set up the company's website (on Wordpress) and other behind-the-scene tasks. I am also an active host in the community, having organized more than ten salons, online and in person, since December 2020.
-* [Blog — Atlas of Wonders and Monsters](https://etiennefd.substack.com/): I write a weekly blog post on any topic. In November 2020, I committed to publish every Wednesday for 100 weeks (until October 2022), and I have succeeded so far. Feel free to subscribe.
+* [Blog — Atlas of Wonders and Monsters](https://etiennefd.substack.com/): I write a weekly blog post on any topic. In November 2020, I committed to publish every Wednesday for 100 weeks (until October 2022), and I have maintained this cadence so far. Feel free to subscribe.
 * [The Classical Futurist](https://classicalfuturist.com/): A monthly magazine to think about the future from the lens of classical antiquity that I co-founded with two friends.
 * I finished and edited a novel about New France and Quebec historical cinema. It's currently in the hands of potential publishers.
 * I have also been doing occasional freelance iOS programming work, mostly debugging an app for car dealership auditing.  
@@ -36,22 +36,22 @@ In early 2021, I quit my software job to try my hand at various independent proj
 
 ### **Fun Small Jobs From My Deep Past**
 
-* 💿 Helped with the online inventory of a classical music CD vendor (2013)
-* 🗣 Was a camp counsellor for teenagers in French immersion for the summer in Quebec City (2012)
-* 🛢 Worked with hazardous materials data at two Canadian military bases (2010-2011)
-* 🔭 Showed visitors around and handled the telescope at a small astronomical observatory (2009)
+* Helped with the online inventory of a classical music CD vendor (2013)
+* Was a camp counsellor for teenagers in French immersion for the summer in Quebec City (2012)
+* Worked with hazardous materials data at two Canadian military bases (2010-2011)
+* Showed visitors around and handled the telescope at a small astronomical observatory (2009)
 
 ## 🎓 Education
 
 ### **McGill University** | Bachelor of Science, Computer Science | *2017–2018*
 * In 2017, I went back to school to get a full degree in computer science
-* Spent the summer of 2018 on a research internship. I used machine learning and natural language processing to mine data from the medical literature on frailty.
+* Spent the summer of 2018 on a research internship under [prof. Joelle Pineau](https://mila.quebec/en/person/joelle-pineau/). I used machine learning and natural language processing to mine data from the medical literature on frailty.
 
 ### **Uppsala University and University of Montpellier** | Master of Science, Evolutionary Biology | *2014–2016*
 * A European master's program intended to gain research experience at various universities. I spent two non-consecutive semesters at Uppsala, Sweden; one at Montpellier, France; and one at Harvard, Massachusetts. 
 * In France, I worked on theoretical modelling of biological innovation.
 * In Sweden, I worked on paleontological data from Siberia.
-* At Harvard, I worked on phylogenetic trees in the context of cultural evolution in human societies. 
+* At Harvard, I worked under [prof. Joe Henrich](https://henrich.fas.harvard.edu/) on phylogenetic trees in the context of cultural evolution in human societies. 
 
 ### **McGill University** | Bachelor of Science, Honours Biology | _2010–2013_
 * Minor in computer science
@@ -63,7 +63,7 @@ In early 2021, I quit my software job to try my hand at various independent proj
 
 ### Languages 
 * French: native
-* English: fluent
+* English: near-native level
 * Rudimentary knowledge of Spanish and Swedish
 * I like to learn new writing systems (Greek, Japanese, Korean, Cyrillic)
 
@@ -80,7 +80,7 @@ In early 2021, I quit my software job to try my hand at various independent proj
 * I have written four complete novels, none of which have been published (but I'm hoping the latest one will be)
 * I have published three short stories in various literary magazines, [one of which](https://www.erudit.org/fr/revues/moebius/2016-n151-moebius03037/85430ac/) was adapted into [a short film](https://www.kinomontreal.com/films/everything-must-go-mon-amour/)
 
-### Skills I've gotten rusty at but could pick up again if I needed to
+### Skills I've gotten rusty at, but could pick up again if I needed to
 * Typesetting: LaTeX
 * Programming languages: Java, C, C++
 * Data science: R, some Python libraries, basic machine learning
