@@ -83,7 +83,7 @@ In early 2021, I quit my software job to try my hand at various independent proj
 ### Skills I've gotten rusty at, but could pick up again if I needed to
 * Typesetting: LaTeX
 * Programming languages: Java, C, C++
-* Data science: R, some Python libraries, basic machine learning
+* Data science: R, some Python libraries, machine learning (which I'm currently reviewing)
 
 <!---
 ---
