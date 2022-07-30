@@ -2,7 +2,9 @@
 
 Programmer and writer based in 📍 Montreal, Quebec
 
-I am a generalist at heart. Over the years I've been involved in scientific research in evolutionary biology, cancer care data, fiction and blog writing, and natural language software. I have not been programming enough for my taste in the last year or two, so I'm now looking for work in a tech company with fun people. 
+I am a generalist at heart. Over the years I've been involved in scientific research in evolutionary biology, cancer care data, fiction and blog writing, and natural language software. 
+
+I have not been programming enough for my taste in the last year or two, so I'm now looking for work in a tech company with fun people. My main work experience in tech is macOS development and iOS development, which I enjoy and would be glad to work on in a professional setting. I would also be happy to branch out to other kinds of softare engineering, particularly natural language processing. I'm currently following the [fastAI](https://course.fast.ai/) course to refresh my knowledge of machine learning and deep learning.
 
 [Email](mailto:etiennefd@gmail.com) / [Personal website](https://www.etiennefd.com) / [Blog](https://etiennefd.substack.com) / [Twitter](https://twitter.com/etiennefd) / [LinkedIn](https://www.linkedin.com/in/%C3%A9tienne-fortier-dubois-93251111b/)	/ [GitHub](https://github.com/etiennefd/)
 
