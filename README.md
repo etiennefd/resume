@@ -1,4 +1,4 @@
-# Étienne Fortier-Dubois
+![image](https://github.com/etiennefd/resume/assets/6393883/cdf4588e-ccb2-4aa3-b98c-6c59f2a2c4e7)# Étienne Fortier-Dubois
 
 Programmer and writer based in 📍 Montreal, Quebec
 
@@ -6,11 +6,10 @@ Programmer and writer based in 📍 Montreal, Quebec
 
 ## 💼 Work Experience
 
-### **Data labelling manager** at [Ought](https://ought.org/) | _October 2022–Present_
+### **AI evaluation specialist** at [Elicit](https://elicit.com/) | _October 2022–Present_
  
- - Handle data from scientific papers used to train an AI research assistant, Elicit.
- - Manage the tasks necessary to acquire the data from human contractors.
- - Run calls to language models and evaluate the results.
+ - Use large language models to build an AI scientific research assistant.
+ - Manage gold standard data from human contractors and customers, run evaluation methods, and use prompt engineering and similar techniques to ensure high quality of LLM output.
 
 ### **Independent Projects** | _February 2021–present_
 
